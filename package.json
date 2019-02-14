@@ -15,6 +15,6 @@
     "react-native": "*"
   },
   "dependencies": {
-    "webgltexture-loader": "https://github.com/gre/webgltexture-loader#6854f44fe889a2bcaf9e5cc3b4116d596dd57d08"
+    "webgltexture-loader": "https://github.com/codeurge/webgltexture-loader-actual"
   }
 }
